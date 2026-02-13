@@ -154,12 +154,6 @@ Security:
 
 ---
 
-## ⚙️ Local Development
-
-```bash
-docker compose up --build
-
----
 
 ☸️ Production Deployment
 
