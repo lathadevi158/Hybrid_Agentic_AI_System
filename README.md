@@ -159,6 +159,8 @@ Security:
 ```bash
 docker compose up --build
 
+---
+
 ☸️ Production Deployment
 
 Supports:
