@@ -155,72 +155,65 @@ Security:
 ---
 
 
-☸️ Production Deployment
+## ☸️ Production Deployment
 
 Supports:
 
-Dockerized deployment
+- Dockerized deployment  
+- Kubernetes (AKS compatible)  
+- Autoscaling via HPA  
+- Rolling updates with zero downtime  
+- Secret management via Kubernetes Secrets  
 
-Kubernetes (AKS compatible)
+---
 
-Autoscaling via HPA
+## 📊 Example Hybrid Query
 
-Rolling updates with zero downtime
+> "Retrieve customer revenue from database and compare it with the uploaded quarterly report."
 
-Secret management via Kubernetes Secrets
+### The system will:
 
-📊 Example Hybrid Query
+- Generate safe SQL query  
+- Retrieve relevant document embeddings  
+- Combine structured + unstructured results  
+- Synthesize a unified answer  
 
-"Retrieve customer revenue from database and compare it with the uploaded quarterly report."
+---
 
-The system will:
-
-Generate safe SQL query
-
-Retrieve relevant document embeddings
-
-Combine structured + unstructured results
-
-Synthesize a unified answer
-
-📈 Scalability & Extensibility
+## 📈 Scalability & Extensibility
 
 This architecture supports:
 
-Multi-tenant isolation
+- Multi-tenant isolation  
+- Role-based access control  
+- Cloud-native deployment  
+- Additional connectors (S3, SharePoint, etc.)  
+- On-prem LLM integration  
+- Observability integration (Prometheus / Grafana)  
 
-Role-based access control
+---
 
-Cloud-native deployment
+## 🏆 Engineering Highlights
 
-Additional connectors (S3, SharePoint, etc.)
+- Agent-based routing architecture  
+- Hybrid RAG implementation  
+- Production-grade Docker configuration  
+- Kubernetes deployment manifests  
+- Secure secret injection pattern  
+- Horizontal scalability  
+- Modular, extensible codebase  
 
-On-prem LLM integration
+---
 
-Observability integration (Prometheus / Grafana)
-
-🏆 Engineering Highlights
-
-Agent-based routing architecture
-
-Hybrid RAG implementation
-
-Production-grade Docker configuration
-
-Kubernetes deployment manifests
-
-Secure secret injection pattern
-
-Horizontal scalability
-
-Modular, extensible codebase
-
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 
-👩‍💻 Author
+---
 
-Marpally Latha Devi
-Prompt Engineer | Generative AI Developer
-Focused on Agentic AI, Hybrid RAG Systems, and Enterprise AI Architecture
+## 👩‍💻 Author
+
+**Marpally Latha Devi**  
+Prompt Engineer | Generative AI Developer  
+Focused on Agentic AI, Hybrid RAG Systems, and Enterprise AI Architecture  
+
