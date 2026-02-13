@@ -1,0 +1,6 @@
+[
+  {
+    "question": "What is the contract value of Project X?",
+    "ground_truth": "The contract value of Project X is 2 million USD."
+  }
+]
