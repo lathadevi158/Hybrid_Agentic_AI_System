@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+langgraph
+openai
+sqlalchemy
+psycopg2-binary
+faiss-cpu
+pypdf
+python-multipart
+tiktoken
+python-dotenv
+ragas
+datasets
